@@ -3,12 +3,12 @@
 
 
 ### password
-* total：572600
-* Duplicate remova：53876
+* total:572600
+* Duplicate remova:53876
 
 ### username
-*
-*
+* total:607222
+* Duplicate remove:1736
 
 ### ip
 * total:139457
