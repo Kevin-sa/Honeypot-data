@@ -32,6 +32,25 @@
 ### version
 * total:92
 
+### Common
+* total：40131
+
+Num |Common
+----|------
+7508| mkdir /tmp/.xs/'  
+2996| /tmp/.xs/test.mod
+2994| /tmp/.xs/daemon.mipsel.mod
+2994| /tmp/.xs/daemon.armv4l.mod
+2992| /tmp/.xs/daemon.i686.mod
+2990| /tmp/.xs/daemon.mips.mod
+1505| cat >/tmp/.xs/daemon.armv4l.mod
+1502| cat >/tmp/.xs/daemon.i686.mod
+1501| cat >/tmp/.xs/daemon.mips.mod
+1500| cat >/tmp/.xs/test.mod
+
+
+
+
 ### 期待进一步分析
 * ip地址经纬度->ip精确地址
 * 开放端口、协议、版本等
