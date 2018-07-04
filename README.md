@@ -37,7 +37,7 @@
 
 Num |Common
 ----|------
-7508| mkdir /tmp/.xs/'  
+7508| mkdir /tmp/.xs/
 2996| /tmp/.xs/test.mod
 2994| /tmp/.xs/daemon.mipsel.mod
 2994| /tmp/.xs/daemon.armv4l.mod
@@ -48,6 +48,8 @@ Num |Common
 1501| cat >/tmp/.xs/daemon.mips.mod
 1500| cat >/tmp/.xs/test.mod
 
+
+表：可以看出，大部分请求来源为TeuSSH Worm SSH蠕虫，其将mod文件通过cat >的方式上传至服务端的/tmp/.xs目录下并依次执行。
 
 
 
